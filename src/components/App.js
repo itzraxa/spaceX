@@ -7,7 +7,7 @@ function App() {
   const contacts = [
     {
       id: "1",
-      name: "Aqib",
+      name: "Aqib razaaa",
       email: "aqib96.ar@outlook.com",
     },
     {
